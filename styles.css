@@ -9,7 +9,7 @@ body::-webkit-scrollbar {
     display: none;
 }
 
-/*Creo atritubos que usaré de manera repetida */
+/*Creo atributos que usaré de manera repetida */
 html {
     --white: #fff;
     --primary: #060f43;
