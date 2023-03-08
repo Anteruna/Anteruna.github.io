@@ -87,6 +87,21 @@ button {
     animation: fade-in 0.4s 0.1s backwards;
 }
 
+.c-item {
+    height: 480px;
+}
+
+.c-img {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.9);
+}
+
+.overview {
+    height: 180px;
+    background-color: #d3dae1;
+}
+
 .logo {
     font-size: 30px;
     color: rgba(255, 255, 255, 0.9);
