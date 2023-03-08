@@ -141,6 +141,14 @@ button {
     color: rgba(255, 255, 255, 1)
 }
 
+.link-grid {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.9);
+    text-transform:uppercase;
+    letter-spacing: 1px;
+    transition: all 0.2s;
+}
+
 .link--btn {
     color: var(--white);
     background-color: var(--accent-color);
