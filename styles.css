@@ -251,6 +251,18 @@ button {
     transition: all 0.2s;
 }
 
+.btn-search {
+    width: 100%;
+    font-size: 17px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 500;
+    color: var(--white);
+    border-radius: 2px;
+    background: var(--cyan);
+    height: 61px;
+    transition: all 0.2s;
+}
 .btn:hover {
     cursor: pointer;
     background: var(--accent-color-dark);
